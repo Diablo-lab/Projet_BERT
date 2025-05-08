@@ -1,7 +1,7 @@
 # Projet BERT - Analyse de Sentiments  
 
 ## 📝 Contenu  
-- **Notebook** : [Projet_BERT_Analyse_Sentiments.ipynb](Projet_BERT_Analyse_Sentiments.ipynb)
+- **Notebook** : [Projet_BERT_Analyse_Sentiments.ipynb(1)](Projet_BERT_Analyse_Sentiments.ipynb(1))
 - **Vidéo** : [Regarder la démo](https://youtu.be/...) *(7 minutes)*  
 
 ## 🚀 Utilisation  
